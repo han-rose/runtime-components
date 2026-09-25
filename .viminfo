@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1790352654,,"wq"
+|2,0,1790354548,,"wq"
 :q!
 |2,0,1788681866,,"q!"
 
@@ -27,36 +27,132 @@
 # Registers:
 
 # File marks:
-'0  5  22  ~/.gitconfig
-|4,48,5,22,1790352654,"~/.gitconfig"
-'1  204  3  ~/runtime_components/install.sh
-|4,49,204,3,1790302880,"~/runtime_components/install.sh"
-'2  25  0  ~/runtime_components/.gitconfig
-|4,50,25,0,1790302823,"~/runtime_components/.gitconfig"
-'3  18  14  ~/runtime_components/.gdbinit
-|4,51,18,14,1790302780,"~/runtime_components/.gdbinit"
-'4  57  0  ~/runtime_components/.vimrc
-|4,52,57,0,1790302740,"~/runtime_components/.vimrc"
-'5  80  0  ~/runtime_components/.zshrc
-|4,53,80,0,1790302666,"~/runtime_components/.zshrc"
-'6  67  1  ~/runtime_components/.bashrc
-|4,54,67,1,1790302636,"~/runtime_components/.bashrc"
-'7  1  0  ~/runtime_components/.bashrc
-|4,55,1,0,1790302611,"~/runtime_components/.bashrc"
-'8  1  0  ~/runtime_components/.bashrc
-|4,56,1,0,1790302611,"~/runtime_components/.bashrc"
-'9  10  22  ~/runtime_components/README.md
-|4,57,10,22,1790302506,"~/runtime_components/README.md"
+'0  57  0  ~/.vimrc
+|4,48,57,0,1790354548,"~/.vimrc"
+'1  5  22  ~/.gitconfig
+|4,49,5,22,1790354530,"~/.gitconfig"
+'2  18  14  ~/.gdbinit
+|4,50,18,14,1790354516,"~/.gdbinit"
+'3  5  22  ~/.gitconfig
+|4,51,5,22,1790352654,"~/.gitconfig"
+'4  204  3  ~/runtime_components/install.sh
+|4,52,204,3,1790302880,"~/runtime_components/install.sh"
+'5  25  0  ~/runtime_components/.gitconfig
+|4,53,25,0,1790302823,"~/runtime_components/.gitconfig"
+'6  18  14  ~/runtime_components/.gdbinit
+|4,54,18,14,1790302780,"~/runtime_components/.gdbinit"
+'7  57  0  ~/runtime_components/.vimrc
+|4,55,57,0,1790302740,"~/runtime_components/.vimrc"
+'8  80  0  ~/runtime_components/.zshrc
+|4,56,80,0,1790302666,"~/runtime_components/.zshrc"
+'9  67  1  ~/runtime_components/.bashrc
+|4,57,67,1,1790302636,"~/runtime_components/.bashrc"
 
 # Jumplist (newest first):
+-'  57  0  ~/.vimrc
+|4,39,57,0,1790354548,"~/.vimrc"
+-'  1  0  ~/.vimrc
+|4,39,1,0,1790354539,"~/.vimrc"
+-'  5  22  ~/.gitconfig
+|4,39,5,22,1790354530,"~/.gitconfig"
+-'  5  22  ~/.gitconfig
+|4,39,5,22,1790354530,"~/.gitconfig"
+-'  18  14  ~/.gdbinit
+|4,39,18,14,1790354516,"~/.gdbinit"
+-'  18  14  ~/.gdbinit
+|4,39,18,14,1790354516,"~/.gdbinit"
+-'  18  14  ~/.gdbinit
+|4,39,18,14,1790354516,"~/.gdbinit"
+-'  18  14  ~/.gdbinit
+|4,39,18,14,1790354516,"~/.gdbinit"
+-'  1  0  ~/.gdbinit
+|4,39,1,0,1790354498,"~/.gdbinit"
+-'  1  0  ~/.gdbinit
+|4,39,1,0,1790354498,"~/.gdbinit"
+-'  1  0  ~/.gdbinit
+|4,39,1,0,1790354498,"~/.gdbinit"
+-'  1  0  ~/.gdbinit
+|4,39,1,0,1790354498,"~/.gdbinit"
 -'  5  22  ~/.gitconfig
 |4,39,5,22,1790352654,"~/.gitconfig"
+-'  5  22  ~/.gitconfig
+|4,39,5,22,1790352654,"~/.gitconfig"
+-'  5  22  ~/.gitconfig
+|4,39,5,22,1790352654,"~/.gitconfig"
+-'  5  22  ~/.gitconfig
+|4,39,5,22,1790352654,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1790352643,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1790352643,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1790352643,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1790352643,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1790352643,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1790352643,"~/.gitconfig"
 -'  204  3  ~/runtime_components/install.sh
 |4,39,204,3,1790302880,"~/runtime_components/install.sh"
 -'  204  3  ~/runtime_components/install.sh
 |4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  204  3  ~/runtime_components/install.sh
+|4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  204  3  ~/runtime_components/install.sh
+|4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  204  3  ~/runtime_components/install.sh
+|4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  204  3  ~/runtime_components/install.sh
+|4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  204  3  ~/runtime_components/install.sh
+|4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  204  3  ~/runtime_components/install.sh
+|4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  204  3  ~/runtime_components/install.sh
+|4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  204  3  ~/runtime_components/install.sh
+|4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  204  3  ~/runtime_components/install.sh
+|4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  204  3  ~/runtime_components/install.sh
+|4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  204  3  ~/runtime_components/install.sh
+|4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  204  3  ~/runtime_components/install.sh
+|4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  204  3  ~/runtime_components/install.sh
+|4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  204  3  ~/runtime_components/install.sh
+|4,39,204,3,1790302880,"~/runtime_components/install.sh"
+-'  1  0  ~/runtime_components/install.sh
+|4,39,1,0,1790302845,"~/runtime_components/install.sh"
+-'  1  0  ~/runtime_components/install.sh
+|4,39,1,0,1790302845,"~/runtime_components/install.sh"
+-'  1  0  ~/runtime_components/install.sh
+|4,39,1,0,1790302845,"~/runtime_components/install.sh"
+-'  1  0  ~/runtime_components/install.sh
+|4,39,1,0,1790302845,"~/runtime_components/install.sh"
+-'  1  0  ~/runtime_components/install.sh
+|4,39,1,0,1790302845,"~/runtime_components/install.sh"
+-'  1  0  ~/runtime_components/install.sh
+|4,39,1,0,1790302845,"~/runtime_components/install.sh"
+-'  1  0  ~/runtime_components/install.sh
+|4,39,1,0,1790302845,"~/runtime_components/install.sh"
+-'  1  0  ~/runtime_components/install.sh
+|4,39,1,0,1790302845,"~/runtime_components/install.sh"
+-'  1  0  ~/runtime_components/install.sh
+|4,39,1,0,1790302845,"~/runtime_components/install.sh"
+-'  1  0  ~/runtime_components/install.sh
+|4,39,1,0,1790302845,"~/runtime_components/install.sh"
+-'  1  0  ~/runtime_components/install.sh
+|4,39,1,0,1790302845,"~/runtime_components/install.sh"
+-'  1  0  ~/runtime_components/install.sh
+|4,39,1,0,1790302845,"~/runtime_components/install.sh"
+-'  1  0  ~/runtime_components/install.sh
+|4,39,1,0,1790302845,"~/runtime_components/install.sh"
+-'  1  0  ~/runtime_components/install.sh
+|4,39,1,0,1790302845,"~/runtime_components/install.sh"
 -'  1  0  ~/runtime_components/install.sh
 |4,39,1,0,1790302845,"~/runtime_components/install.sh"
 -'  1  0  ~/runtime_components/install.sh
@@ -69,6 +165,62 @@
 |4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
 -'  25  0  ~/runtime_components/.gitconfig
 |4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
+-'  25  0  ~/runtime_components/.gitconfig
+|4,39,25,0,1790302823,"~/runtime_components/.gitconfig"
 -'  1  0  ~/runtime_components/.gitconfig
 |4,39,1,0,1790302814,"~/runtime_components/.gitconfig"
 -'  1  0  ~/runtime_components/.gitconfig
@@ -77,187 +229,49 @@
 |4,39,1,0,1790302814,"~/runtime_components/.gitconfig"
 -'  1  0  ~/runtime_components/.gitconfig
 |4,39,1,0,1790302814,"~/runtime_components/.gitconfig"
--'  18  14  ~/runtime_components/.gdbinit
-|4,39,18,14,1790302780,"~/runtime_components/.gdbinit"
--'  18  14  ~/runtime_components/.gdbinit
-|4,39,18,14,1790302780,"~/runtime_components/.gdbinit"
--'  18  14  ~/runtime_components/.gdbinit
-|4,39,18,14,1790302780,"~/runtime_components/.gdbinit"
--'  18  14  ~/runtime_components/.gdbinit
-|4,39,18,14,1790302780,"~/runtime_components/.gdbinit"
--'  18  14  ~/runtime_components/.gdbinit
-|4,39,18,14,1790302780,"~/runtime_components/.gdbinit"
--'  18  14  ~/runtime_components/.gdbinit
-|4,39,18,14,1790302780,"~/runtime_components/.gdbinit"
--'  18  14  ~/runtime_components/.gdbinit
-|4,39,18,14,1790302780,"~/runtime_components/.gdbinit"
--'  18  14  ~/runtime_components/.gdbinit
-|4,39,18,14,1790302780,"~/runtime_components/.gdbinit"
--'  1  0  ~/runtime_components/.gdbinit
-|4,39,1,0,1790302773,"~/runtime_components/.gdbinit"
--'  1  0  ~/runtime_components/.gdbinit
-|4,39,1,0,1790302773,"~/runtime_components/.gdbinit"
--'  1  0  ~/runtime_components/.gdbinit
-|4,39,1,0,1790302773,"~/runtime_components/.gdbinit"
--'  1  0  ~/runtime_components/.gdbinit
-|4,39,1,0,1790302773,"~/runtime_components/.gdbinit"
--'  1  0  ~/runtime_components/.gdbinit
-|4,39,1,0,1790302773,"~/runtime_components/.gdbinit"
--'  1  0  ~/runtime_components/.gdbinit
-|4,39,1,0,1790302773,"~/runtime_components/.gdbinit"
--'  1  0  ~/runtime_components/.gdbinit
-|4,39,1,0,1790302773,"~/runtime_components/.gdbinit"
--'  1  0  ~/runtime_components/.gdbinit
-|4,39,1,0,1790302773,"~/runtime_components/.gdbinit"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  57  0  ~/runtime_components/.vimrc
-|4,39,57,0,1790302740,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  1  0  ~/runtime_components/.vimrc
-|4,39,1,0,1790302734,"~/runtime_components/.vimrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  80  0  ~/runtime_components/.zshrc
-|4,39,80,0,1790302666,"~/runtime_components/.zshrc"
--'  1  0  ~/runtime_components/.zshrc
-|4,39,1,0,1790302659,"~/runtime_components/.zshrc"
--'  1  0  ~/runtime_components/.zshrc
-|4,39,1,0,1790302659,"~/runtime_components/.zshrc"
--'  1  0  ~/runtime_components/.zshrc
-|4,39,1,0,1790302659,"~/runtime_components/.zshrc"
--'  1  0  ~/runtime_components/.zshrc
-|4,39,1,0,1790302659,"~/runtime_components/.zshrc"
--'  1  0  ~/runtime_components/.zshrc
-|4,39,1,0,1790302659,"~/runtime_components/.zshrc"
--'  1  0  ~/runtime_components/.zshrc
-|4,39,1,0,1790302659,"~/runtime_components/.zshrc"
+-'  1  0  ~/runtime_components/.gitconfig
+|4,39,1,0,1790302814,"~/runtime_components/.gitconfig"
+-'  1  0  ~/runtime_components/.gitconfig
+|4,39,1,0,1790302814,"~/runtime_components/.gitconfig"
+-'  1  0  ~/runtime_components/.gitconfig
+|4,39,1,0,1790302814,"~/runtime_components/.gitconfig"
+-'  1  0  ~/runtime_components/.gitconfig
+|4,39,1,0,1790302814,"~/runtime_components/.gitconfig"
+-'  1  0  ~/runtime_components/.gitconfig
+|4,39,1,0,1790302814,"~/runtime_components/.gitconfig"
+-'  1  0  ~/runtime_components/.gitconfig
+|4,39,1,0,1790302814,"~/runtime_components/.gitconfig"
+-'  1  0  ~/runtime_components/.gitconfig
+|4,39,1,0,1790302814,"~/runtime_components/.gitconfig"
+-'  1  0  ~/runtime_components/.gitconfig
+|4,39,1,0,1790302814,"~/runtime_components/.gitconfig"
+-'  1  0  ~/runtime_components/.gitconfig
+|4,39,1,0,1790302814,"~/runtime_components/.gitconfig"
+-'  1  0  ~/runtime_components/.gitconfig
+|4,39,1,0,1790302814,"~/runtime_components/.gitconfig"
 
 # History of marks within files (newest to oldest):
 
+> ~/.vimrc
+	*	1790354547	0
+	"	57	0
+	^	57	0
+	.	58	0
+	+	58	0
+
 > ~/.gitconfig
-	*	1790352652	0
+	*	1790354528	0
 	"	5	22
 	^	5	23
 	.	5	22
 	+	5	22
+
+> ~/.gdbinit
+	*	1790354515	0
+	"	18	14
+	^	18	15
+	.	18	14
+	+	18	14
 
 > ~/runtime_components/install.sh
 	*	1790302878	0
