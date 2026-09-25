@@ -1,0 +1,74 @@
+body {
+  background-color: white;
+  color: #FFB6C1;
+  font-family: Georgia;
+  font-size: 16px;
+}
+
+h1 {
+	color: #FFB6C1;
+	font-size: 25px;
+}
+
+h2 {
+	color: #FFB6C1;
+        font-size: 25px;
+	border-bottom 2px solid #FFB6C1;
+}
+
+h3 {
+	color: #FFB6C1;
+        font-size: 25px;
+}
+
+a {
+	color: #FFB6C1;
+	text-decoration: underline;
+}
+
+table {
+	border: 1px solid black;
+}
+
+td, th {
+	border: 1px solid black;
+	padding: 8px;
+}
+
+#about {
+	background-color: white;
+	padding: 20px;
+	text-align: center;
+}
+
+#skills {
+  background-color: white;
+  padding: 20px;
+}
+
+#projects {
+  padding: 20px;
+  margin-top: 30px;
+  border: 2px solid #FFB6C1;
+}
+
+#contact {
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 18px;
+}
+
+#main-logo {
+  width: 140px;
+  float: left;
+}
+
+#profile-photo {
+  width: 80px;
+  float: right;
+}
+
+#page-header {
+  overflow: hidden;
+}

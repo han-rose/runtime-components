@@ -1,0 +1,11 @@
+[user]
+	name = Hannah Way
+	email = wayh@purdue.edu
+[innit]
+	defaultBranch = master
+[core]
+	editor = vim
+[pull]
+	rebase = true
+[init]
+	defaultBranch = master
